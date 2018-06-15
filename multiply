@@ -1,0 +1,7 @@
+   def multiply(a,b,c)
+   return a*b*c
+p=int (input("a"));
+q=int (input("b"));
+r=int (input("c"));
+s=multiply(p,q,r)
+print("p*q*r=%d"%(s))
