@@ -1,0 +1,7 @@
+def sub(a,b,c):
+    return a-b-c
+p=int (input("a"));
+q=int (input("b"));
+r=int (input("c"));
+s=sub(p,q,r)
+print("p-q-r=%d"%(s))
